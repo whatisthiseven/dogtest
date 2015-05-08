@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LiteDoge</source>
+        <source>About Litedoge</source>
         <translation>Vad du behöver veta om Litedoge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LiteDoge&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;LiteDoge&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Litedoge&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Litedoge&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlackCoin developers</source>
+Copyright © 2014 The Litedoge developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlackCoin developers</translation>
+Copyright © 2014 The Litedoge developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your LiteDoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina LiteDoge adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your Litedoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina Litedoge adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a LiteDoge address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger LiteDoge adressen</translation>
+        <source>Sign a message to prove you own a Litedoge address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger Litedoge adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified LiteDoge address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik LiteDoge adress</translation>
+        <source>Verify a message to ensure it was signed with a specified Litedoge address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Litedoge adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>LiteDoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Litedoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Litedoge plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LiteDoge</source>
-        <translation>Visa information om LiteDoge</translation>
+        <source>Show information about Litedoge</source>
+        <translation>Visa information om Litedoge</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a LiteDoge address</source>
-        <translation>Skicka coins till en LiteDoge adress</translation>
+        <source>Send coins to a Litedoge address</source>
+        <translation>Skicka coins till en Litedoge adress</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for LiteDoge</source>
-        <translation>Modifiera konfigurations-alternativ för LiteDoge</translation>
+        <source>Modify configuration options for Litedoge</source>
+        <translation>Modifiera konfigurations-alternativ för Litedoge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>LiteDoge</source>
-        <translation>LiteDoge</translation>
+        <source>Litedoge</source>
+        <translation>Litedoge</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About LiteDoge</source>
-        <translation>&amp;Om LiteDoge</translation>
+        <source>&amp;About Litedoge</source>
+        <translation>&amp;Om Litedoge</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>LiteDoge client</source>
-        <translation>LiteDoge klient</translation>
+        <source>Litedoge client</source>
+        <translation>Litedoge klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LiteDoge network</source>
-        <translation><numerusform>%n aktiv anslutning till LiteDoge nätverket</numerusform><numerusform>%n aktiva anslutning till LiteDoge nätverket</numerusform></translation>
+        <source>%n active connection(s) to Litedoge network</source>
+        <translation><numerusform>%n aktiv anslutning till Litedoge nätverket</numerusform><numerusform>%n aktiva anslutning till Litedoge nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LiteDoge address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig LiteDoge adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Litedoge address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Litedoge adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,7 +723,7 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. LiteDoge can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Litedoge can no longer continue safely and will quit.</source>
         <translation>Ett fatalt fel uppstod. Litedoge kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
@@ -1057,7 +1057,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LiteDoge address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Litedoge address.</source>
         <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Litedoge adress.</translation>
     </message>
     <message>
@@ -1076,8 +1076,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>LiteDoge-Qt</source>
-        <translation>LiteDoge-Qt</translation>
+        <source>Litedoge-Qt</source>
+        <translation>Litedoge-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,12 +1149,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LiteDoge after logging in to the system.</source>
+        <source>Automatically start Litedoge after logging in to the system.</source>
         <translation>Starta Litedoge automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LiteDoge on system login</source>
+        <source>&amp;Start Litedoge on system login</source>
         <translation>&amp;Starta Litedoge vid inloggning</translation>
     </message>
     <message>
@@ -1164,8 +1164,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LiteDoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt LiteDoge klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the Litedoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Litedoge klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LiteDoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till LiteDoge nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Litedoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Litedoge nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LiteDoge.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av LiteDoge.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Litedoge.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Litedoge.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LiteDoge.</source>
-        <translation>Inställningen börjar gälla efter omstart av LiteDoge.</translation>
+        <source>This setting will take effect after restarting Litedoge.</source>
+        <translation>Inställningen börjar gälla efter omstart av Litedoge.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LiteDoge network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med LiteDoge nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litedoge network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Litedoge nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1577,8 +1577,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LiteDoge-Qt help message to get a list with possible LiteDoge command-line options.</source>
-        <translation>Visa LiteDoge-Qt hjälp meddelandet för att få en lista över möjliga LiteDoge kommandoradsalternativ.</translation>
+        <source>Show the Litedoge-Qt help message to get a list with possible Litedoge command-line options.</source>
+        <translation>Visa Litedoge-Qt hjälp meddelandet för att få en lista över möjliga Litedoge kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>LiteDoge - Debug window</source>
-        <translation>LiteDoge - Felsökningsfönster</translation>
+        <source>Litedoge - Debug window</source>
+        <translation>Litedoge - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LiteDoge Core</source>
-        <translation>LiteDoge Core</translation>
+        <source>Litedoge Core</source>
+        <translation>Litedoge Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LiteDoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna LiteDoge felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the Litedoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Litedoge felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the LiteDoge RPC console.</source>
-        <translation>Välkommen till LiteDoge RPC konsoll.</translation>
+        <source>Welcome to the Litedoge RPC console.</source>
+        <translation>Välkommen till Litedoge RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Fyll i en LiteDoge adress (t.ex. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en Litedoge adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid LiteDoge address</source>
-        <translation>VARNING: Ogiltig LiteDoge adress</translation>
+        <source>WARNING: Invalid Litedoge address</source>
+        <translation>VARNING: Ogiltig Litedoge adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1949,7 +1949,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1990,8 +1990,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Fyll i en LiteDoge adress (t.ex. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en Litedoge adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +2014,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Adressen att signera meddelandet med (t.ex. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adressen att signera meddelandet med (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2051,8 +2051,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LiteDoge address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna LiteDoge adressen</translation>
+        <source>Sign the message to prove you own this Litedoge address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna Litedoge adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2078,13 +2078,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Adressen meddelandet var signerad med (t.ex. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adressen meddelandet var signerad med (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LiteDoge address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna LiteDoge adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Litedoge address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Litedoge adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Fyll i en LiteDoge adress (t.ex. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en Litedoge adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LiteDoge signature</source>
-        <translation>Fyll i LiteDoge signatur</translation>
+        <source>Enter Litedoge signature</source>
+        <translation>Fyll i Litedoge signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>LiteDoge version</source>
-        <translation>LiteDoge version</translation>
+        <source>Litedoge version</source>
+        <translation>Litedoge version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2742,7 +2742,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Litedoge Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2758,8 +2758,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 17014 or testnet: 27014)</source>
-        <translation>Lyssna efter anslutningar på &lt;port&gt; (standard: 17014 eller testnät: 27014)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Lyssna efter anslutningar på &lt;port&gt; (standard: 15714 eller testnät: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,8 +2808,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 17015 or testnet: 27015)</source>
-        <translation>Lyssna efter JSON-RPC anslutningar på &lt;port&gt; (standard: 17015 eller testnät: 27015)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Lyssna efter JSON-RPC anslutningar på &lt;port&gt; (standard: 15715 eller testnät: 25715)</translation>
     </message>
     <message>
         <location line="-17"/>
@@ -2848,7 +2848,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LiteDoge will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litedoge will not work properly.</source>
         <translation>Varning: Kolla att din dators tid och datum är rätt. Litedoge kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. LiteDoge is shutting down.</source>
+        <source>Initialization sanity check failed. Litedoge is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,12 +3220,12 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LiteDoge</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Litedoge</source>
         <translation>Kunde inte ladda wallet.dat: En nyare version av Litedoge krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LiteDoge to complete</source>
+        <source>Wallet needed to be rewritten: restart Litedoge to complete</source>
         <translation>Plånboken måste skrivas om: Starta om Litedoge för att slutföra</translation>
     </message>
     <message>
@@ -3290,7 +3290,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. LiteDoge is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Litedoge is probably already running.</source>
         <translation>Kan inte binda till %s på denna dator. Litedoge är sannolikt redan startad.</translation>
     </message>
     <message>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. LiteDoge is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Litedoge is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

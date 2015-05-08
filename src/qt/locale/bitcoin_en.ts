@@ -5,21 +5,20 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LiteDoge</source>
-        <translation>About LiteDoge</translation>
+        <source>About Litedoge</source>
+        <translation>About Litedoge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LiteDoge&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;LiteDoge&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Litedoge&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Litedoge&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2015 The Bitcoin developers
 Copyright © 2011-2012 PPCoin Developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014-2015 The BlackCoin developers
-Copyright © 2015 The LiteDoge developers</source>
+Copyright © 2014-2015 The Litedoge developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -62,8 +61,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your LiteDoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your LiteDoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your Litedoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your Litedoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -77,8 +76,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a LiteDoge address</source>
-        <translation>Sign a message to prove you own a LiteDoge address</translation>
+        <source>Sign a message to prove you own a Litedoge address</source>
+        <translation>Sign a message to prove you own a Litedoge address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -92,8 +91,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified LiteDoge address</source>
-        <translation>Verify a message to ensure it was signed with a specified LiteDoge address</translation>
+        <source>Verify a message to ensure it was signed with a specified Litedoge address</source>
+        <translation>Verify a message to ensure it was signed with a specified Litedoge address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -260,8 +259,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>LiteDoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>LiteDoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>Litedoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Litedoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -354,8 +353,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LiteDoge</source>
-        <translation>Show information about LiteDoge</translation>
+        <source>Show information about Litedoge</source>
+        <translation>Show information about Litedoge</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -394,13 +393,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a LiteDoge address</source>
-        <translation>Send coins to a LiteDoge address</translation>
+        <source>Send coins to a Litedoge address</source>
+        <translation>Send coins to a Litedoge address</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for LiteDoge</source>
-        <translation>Modify configuration options for LiteDoge</translation>
+        <source>Modify configuration options for Litedoge</source>
+        <translation>Modify configuration options for Litedoge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -440,8 +439,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>LiteDoge</source>
-        <translation>LiteDoge</translation>
+        <source>Litedoge</source>
+        <translation>Litedoge</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -450,8 +449,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About LiteDoge</source>
-        <translation>&amp;About LiteDoge</translation>
+        <source>&amp;About Litedoge</source>
+        <translation>&amp;About Litedoge</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -502,15 +501,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>LiteDoge client</source>
-        <translation>LiteDoge client</translation>
+        <source>Litedoge client</source>
+        <translation>Litedoge client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LiteDoge network</source>
+        <source>%n active connection(s) to Litedoge network</source>
         <translation>
-            <numerusform>%n active connection to LiteDoge network</numerusform>
-            <numerusform>%n active connections to LiteDoge network</numerusform>
+            <numerusform>%n active connection to Litedoge network</numerusform>
+            <numerusform>%n active connections to Litedoge network</numerusform>
         </translation>
     </message>
     <message>
@@ -605,8 +604,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LiteDoge address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid LiteDoge address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Litedoge address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid Litedoge address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -746,8 +745,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. LiteDoge can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. LiteDoge can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. Litedoge can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Litedoge can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1066,8 +1065,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LiteDoge address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid LiteDoge address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Litedoge address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Litedoge address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1085,8 +1084,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>LiteDoge-Qt</source>
-        <translation>LiteDoge-Qt</translation>
+        <source>Litedoge-Qt</source>
+        <translation>Litedoge-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1158,13 +1157,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LiteDoge after logging in to the system.</source>
-        <translation>Automatically start LiteDoge after logging in to the system.</translation>
+        <source>Automatically start Litedoge after logging in to the system.</source>
+        <translation>Automatically start Litedoge after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LiteDoge on system login</source>
-        <translation>&amp;Start LiteDoge on system login</translation>
+        <source>&amp;Start Litedoge on system login</source>
+        <translation>&amp;Start Litedoge on system login</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1173,8 +1172,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LiteDoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the LiteDoge client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Litedoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Litedoge client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1182,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LiteDoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the LiteDoge network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the Litedoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the Litedoge network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,8 +1257,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LiteDoge.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting LiteDoge.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Litedoge.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Litedoge.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1325,8 +1324,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LiteDoge.</source>
-        <translation>This setting will take effect after restarting LiteDoge.</translation>
+        <source>This setting will take effect after restarting Litedoge.</source>
+        <translation>This setting will take effect after restarting Litedoge.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1343,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LiteDoge network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the LiteDoge network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litedoge network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Litedoge network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1586,8 +1585,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LiteDoge-Qt help message to get a list with possible LiteDoge command-line options.</source>
-        <translation>Show the LiteDoge-Qt help message to get a list with possible LiteDoge command-line options.</translation>
+        <source>Show the Litedoge-Qt help message to get a list with possible Litedoge command-line options.</source>
+        <translation>Show the Litedoge-Qt help message to get a list with possible Litedoge command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1606,13 +1605,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>LiteDoge - Debug window</source>
-        <translation>LiteDoge - Debug window</translation>
+        <source>Litedoge - Debug window</source>
+        <translation>Litedoge - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LiteDoge Core</source>
-        <translation>LiteDoge Core</translation>
+        <source>Litedoge Core</source>
+        <translation>Litedoge Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1621,8 +1620,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LiteDoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the LiteDoge debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Litedoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Litedoge debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1631,8 +1630,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the LiteDoge RPC console.</source>
-        <translation>Welcome to the LiteDoge RPC console.</translation>
+        <source>Welcome to the Litedoge RPC console.</source>
+        <translation>Welcome to the Litedoge RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1825,8 +1824,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1925,7 +1924,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid LiteDoge address</source>
+        <source>WARNING: Invalid Litedoge address</source>
         <translation></translation>
     </message>
     <message>
@@ -1958,7 +1957,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1999,8 +1998,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2023,8 +2022,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>The address to sign the message with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2060,8 +2059,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LiteDoge address</source>
-        <translation>Sign the message to prove you own this LiteDoge address</translation>
+        <source>Sign the message to prove you own this Litedoge address</source>
+        <translation>Sign the message to prove you own this Litedoge address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2087,13 +2086,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>The address the message was signed with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LiteDoge address</source>
-        <translation>Verify the message to ensure it was signed with the specified LiteDoge address</translation>
+        <source>Verify the message to ensure it was signed with the specified Litedoge address</source>
+        <translation>Verify the message to ensure it was signed with the specified Litedoge address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2103,8 +2102,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2113,8 +2112,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LiteDoge signature</source>
-        <translation>Enter LiteDoge signature</translation>
+        <source>Enter Litedoge signature</source>
+        <translation>Enter Litedoge signature</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2704,8 +2703,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+172"/>
-        <source>LiteDoge version</source>
-        <translation>LiteDoge version</translation>
+        <source>Litedoge version</source>
+        <translation>Litedoge version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2763,7 +2762,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Litedoge Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2779,8 +2778,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 17014 or testnet: 27014)</source>
-        <translation>Listen for connections on &lt;port&gt; (default: 17014 or testnet: 27014)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2829,7 +2828,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+64"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 17015 or testnet: 27015)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation></translation>
     </message>
     <message>
@@ -2869,8 +2868,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="-102"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LiteDoge will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LiteDoge will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litedoge will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litedoge will not work properly.</translation>
     </message>
     <message>
         <location line="+131"/>
@@ -3170,7 +3169,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. LiteDoge is shutting down.</source>
+        <source>Initialization sanity check failed. Litedoge is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3235,13 +3234,13 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LiteDoge</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of LiteDoge</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Litedoge</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Litedoge</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LiteDoge to complete</source>
-        <translation>Wallet needed to be rewritten: restart LiteDoge to complete</translation>
+        <source>Wallet needed to be rewritten: restart Litedoge to complete</source>
+        <translation>Wallet needed to be rewritten: restart Litedoge to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3305,8 +3304,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. LiteDoge is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. LiteDoge is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Litedoge is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Litedoge is probably already running.</translation>
     </message>
     <message>
         <location line="-100"/>
@@ -3345,7 +3344,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. LiteDoge is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Litedoge is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

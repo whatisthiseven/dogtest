@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LiteDoge</source>
-        <translation>Despre LiteDoge</translation>
+        <source>About Litedoge</source>
+        <translation>Despre Litedoge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LiteDoge&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;LiteDoge&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Litedoge&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Litedoge&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlackCoin developers</source>
+Copyright © 2014 The Litedoge developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlackCoin developers</translation>
+Copyright © 2014 The Litedoge developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your LiteDoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele LiteDoge pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Litedoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Litedoge pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a LiteDoge address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă LiteDoge</translation>
+        <source>Sign a message to prove you own a Litedoge address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Litedoge</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified LiteDoge address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă LiteDoge</translation>
+        <source>Verify a message to ensure it was signed with a specified Litedoge address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Litedoge</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>LiteDoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>LiteDoge se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Litedoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Litedoge se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LiteDoge</source>
-        <translation>Arată informații despre LiteDoge</translation>
+        <source>Show information about Litedoge</source>
+        <translation>Arată informații despre Litedoge</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a LiteDoge address</source>
-        <translation>Trimite monede către o adresă LiteDoge</translation>
+        <source>Send coins to a Litedoge address</source>
+        <translation>Trimite monede către o adresă Litedoge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for LiteDoge</source>
-        <translation>Modifică opțiuni de configurare pentru LiteDoge</translation>
+        <source>Modify configuration options for Litedoge</source>
+        <translation>Modifică opțiuni de configurare pentru Litedoge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>LiteDoge</source>
-        <translation>LiteDoge</translation>
+        <source>Litedoge</source>
+        <translation>Litedoge</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About LiteDoge</source>
-        <translation>Despre LiteDoge</translation>
+        <source>&amp;About Litedoge</source>
+        <translation>Despre Litedoge</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>LiteDoge client</source>
-        <translation>Clientul LiteDoge</translation>
+        <source>Litedoge client</source>
+        <translation>Clientul Litedoge</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LiteDoge network</source>
-        <translation><numerusform>%n conexiune activă la reteaua LiteDoge</numerusform><numerusform>%n conexiuni active la reteaua LiteDoge</numerusform><numerusform>%n conexiuni active la reteaua LiteDoge</numerusform></translation>
+        <source>%n active connection(s) to Litedoge network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Litedoge</numerusform><numerusform>%n conexiuni active la reteaua Litedoge</numerusform><numerusform>%n conexiuni active la reteaua Litedoge</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LiteDoge address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa LiteDoge invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Litedoge address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Litedoge invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. LiteDoge can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. LiteDoge nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Litedoge can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Litedoge nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LiteDoge address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă LiteDoge validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Litedoge address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Litedoge validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>LiteDoge-Qt</source>
-        <translation>LiteDoge-Qt</translation>
+        <source>Litedoge-Qt</source>
+        <translation>Litedoge-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LiteDoge after logging in to the system.</source>
-        <translation>Pornește LiteDoge imdiat după logarea în sistem</translation>
+        <source>Automatically start Litedoge after logging in to the system.</source>
+        <translation>Pornește Litedoge imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LiteDoge on system login</source>
-        <translation>$Pornește LiteDoge la logarea în sistem</translation>
+        <source>&amp;Start Litedoge on system login</source>
+        <translation>$Pornește Litedoge la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LiteDoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul LiteDoge pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Litedoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Litedoge pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LiteDoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua LiteDoge prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Litedoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Litedoge prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LiteDoge.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea LiteDoge.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Litedoge.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Litedoge.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LiteDoge.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea LiteDoge.</translation>
+        <source>This setting will take effect after restarting Litedoge.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Litedoge.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LiteDoge network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua LiteDoge după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litedoge network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Litedoge după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1577,8 +1577,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LiteDoge-Qt help message to get a list with possible LiteDoge command-line options.</source>
-        <translation>Afișa mesajul de ajutor LiteDoge-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă LiteDoge.</translation>
+        <source>Show the Litedoge-Qt help message to get a list with possible Litedoge command-line options.</source>
+        <translation>Afișa mesajul de ajutor Litedoge-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Litedoge.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>LiteDoge - Debug window</source>
-        <translation>LiteDoge - fereastră depanare</translation>
+        <source>Litedoge - Debug window</source>
+        <translation>Litedoge - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LiteDoge Core</source>
-        <translation>LiteDoge Core</translation>
+        <source>Litedoge Core</source>
+        <translation>Litedoge Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LiteDoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare LiteDoge din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Litedoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Litedoge din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the LiteDoge RPC console.</source>
-        <translation>Bine ati venit la consola LiteDoge RPC.</translation>
+        <source>Welcome to the Litedoge RPC console.</source>
+        <translation>Bine ati venit la consola Litedoge RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduceți o adresă LiteDoge(ex:dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Litedoge(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid LiteDoge address</source>
-        <translation>Atenție: Adresă LiteDoge invalidă</translation>
+        <source>WARNING: Invalid Litedoge address</source>
+        <translation>Atenție: Adresă Litedoge invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1949,7 +1949,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1990,8 +1990,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduceți o adresă LiteDoge(ex:dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Litedoge(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +2014,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Adresa cu care semnati mesajul(ex. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adresa cu care semnati mesajul(ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2051,8 +2051,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LiteDoge address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă LiteDoge</translation>
+        <source>Sign the message to prove you own this Litedoge address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Litedoge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2078,13 +2078,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LiteDoge address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă LiteDoge</translation>
+        <source>Verify the message to ensure it was signed with the specified Litedoge address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Litedoge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Introduceți o adresă LiteDoge(ex:dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Litedoge(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LiteDoge signature</source>
-        <translation>Introduceti semnatura LiteDoge</translation>
+        <source>Enter Litedoge signature</source>
+        <translation>Introduceti semnatura Litedoge</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>LiteDoge version</source>
-        <translation>Versiune LiteDoge</translation>
+        <source>Litedoge version</source>
+        <translation>Versiune Litedoge</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2742,7 +2742,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Litedoge Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2758,8 +2758,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 17014 or testnet: 27014)</source>
-        <translation>Ascultă pentru conectări pe &lt;port&gt; (implicit:  17014 sau testnet: 27014) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Ascultă pentru conectări pe &lt;port&gt; (implicit:  15714 sau testnet: 25714) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,8 +2808,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 17015 or testnet: 27015)</source>
-        <translation>Ascultă pentru conexiuni JSON-RPC pe &lt;port&gt; (implicit:17015 sau testnet: 27015)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Ascultă pentru conexiuni JSON-RPC pe &lt;port&gt; (implicit:15715 sau testnet: 25715)</translation>
     </message>
     <message>
         <location line="-17"/>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LiteDoge will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit LiteDoge nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litedoge will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Litedoge nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. LiteDoge is shutting down.</source>
+        <source>Initialization sanity check failed. Litedoge is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LiteDoge</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de LiteDoge</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Litedoge</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Litedoge</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LiteDoge to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați LiteDoge pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Litedoge to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Litedoge pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. LiteDoge is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil LiteDoge ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Litedoge is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Litedoge ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. LiteDoge is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Litedoge is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

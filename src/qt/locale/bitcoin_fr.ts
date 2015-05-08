@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LiteDoge</source>
-        <translation>Au sujet de LiteDoge</translation>
+        <source>About Litedoge</source>
+        <translation>Au sujet de Litedoge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LiteDoge&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;LiteDoge&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Litedoge&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;Litedoge&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BlackCoin developers</source>
+Copyright © 2014 The Litedoge developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs LiteDoge</translation>
+Copyright © 2014 Les développeurs Litedoge</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your LiteDoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Litedoge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a LiteDoge address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse LiteDoge</translation>
+        <source>Sign a message to prove you own a Litedoge address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse Litedoge</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified LiteDoge address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse LiteDoge spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified Litedoge address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Litedoge spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -227,7 +227,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos LiteDoges&lt;/b&gt;!</translation>
+        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos Litedoges&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>LiteDoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application LiteDoge va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>Litedoge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application Litedoge va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LiteDoge</source>
-        <translation>Afficher des informations au sujet de LiteDoge</translation>
+        <source>Show information about Litedoge</source>
+        <translation>Afficher des informations au sujet de Litedoge</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a LiteDoge address</source>
-        <translation>Envoyer des monnaies vers une adresse LiteDoge</translation>
+        <source>Send coins to a Litedoge address</source>
+        <translation>Envoyer des monnaies vers une adresse Litedoge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for LiteDoge</source>
-        <translation>Modification des options de configuration de LiteDoge</translation>
+        <source>Modify configuration options for Litedoge</source>
+        <translation>Modification des options de configuration de Litedoge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>LiteDoge</source>
-        <translation>LiteDoge</translation>
+        <source>Litedoge</source>
+        <translation>Litedoge</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About LiteDoge</source>
-        <translation>&amp;Au sujet de LiteDoge</translation>
+        <source>&amp;About Litedoge</source>
+        <translation>&amp;Au sujet de Litedoge</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>LiteDoge client</source>
-        <translation>Client LiteDoge</translation>
+        <source>Litedoge client</source>
+        <translation>Client Litedoge</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LiteDoge network</source>
-        <translation><numerusform>%n connexion active au réseau LiteDoge</numerusform><numerusform>%n connexions actives au réseau LiteDoge</numerusform></translation>
+        <source>%n active connection(s) to Litedoge network</source>
+        <translation><numerusform>%n connexion active au réseau Litedoge</numerusform><numerusform>%n connexions actives au réseau Litedoge</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LiteDoge address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille LiteDoge n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Litedoge address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille Litedoge n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. LiteDoge can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application LiteDoge ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
+        <source>A fatal error occurred. Litedoge can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application Litedoge ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LiteDoge address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse LiteDoge valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Litedoge address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Litedoge valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>LiteDoge-Qt</source>
-        <translation>LiteDoge-Qt</translation>
+        <source>Litedoge-Qt</source>
+        <translation>Litedoge-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LiteDoge after logging in to the system.</source>
-        <translation>Démarrage automatique du client LiteDoge lors de la connexion au système</translation>
+        <source>Automatically start Litedoge after logging in to the system.</source>
+        <translation>Démarrage automatique du client Litedoge lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LiteDoge on system login</source>
-        <translation>&amp;Démarrage du client LiteDoge à la connexion au système</translation>
+        <source>&amp;Start Litedoge on system login</source>
+        <translation>&amp;Démarrage du client Litedoge à la connexion au système</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LiteDoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquemwnr le port client de LiteDoge sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the Litedoge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquemwnr le port client de Litedoge sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LiteDoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau LiteDoge à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the Litedoge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau Litedoge à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LiteDoge.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application LiteDoge</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Litedoge.</source>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application Litedoge</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LiteDoge.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client LiteDoge</translation>
+        <source>This setting will take effect after restarting Litedoge.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client Litedoge</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LiteDoge network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau LiteDoge mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litedoge network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Litedoge mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1577,8 +1577,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LiteDoge-Qt help message to get a list with possible LiteDoge command-line options.</source>
-        <translation>Afficher le message d&apos;aide LiteDoge-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande LiteDoge</translation>
+        <source>Show the Litedoge-Qt help message to get a list with possible Litedoge command-line options.</source>
+        <translation>Afficher le message d&apos;aide Litedoge-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Litedoge</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>LiteDoge - Debug window</source>
-        <translation>LiteDoge - Fenêtre de déboggage</translation>
+        <source>Litedoge - Debug window</source>
+        <translation>Litedoge - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LiteDoge Core</source>
-        <translation>LiteDoge Core</translation>
+        <source>Litedoge Core</source>
+        <translation>Litedoge Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LiteDoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug LiteDoge au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the Litedoge debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug Litedoge au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the LiteDoge RPC console.</source>
-        <translation>Bienvenue sur la console RPC de LiteDoge.</translation>
+        <source>Welcome to the Litedoge RPC console.</source>
+        <translation>Bienvenue sur la console RPC de Litedoge.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Entrer une adresse LiteDoge (par ex: dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Litedoge (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid LiteDoge address</source>
-        <translation>AVERTISSEMENT: Adresse LiteDoge Invalide</translation>
+        <source>WARNING: Invalid Litedoge address</source>
+        <translation>AVERTISSEMENT: Adresse Litedoge Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1927,7 +1927,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse LiteDoge Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse Litedoge Invalide</translation>
     </message>
 </context>
 <context>
@@ -1949,7 +1949,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
+        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1990,8 +1990,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Entrer une adresse LiteDoge (par ex: dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Litedoge (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +2014,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Entrer une adresse LiteDoge (par ex: dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Litedoge (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2051,8 +2051,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LiteDoge address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse LiteDoge</translation>
+        <source>Sign the message to prove you own this Litedoge address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Litedoge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2078,13 +2078,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>L&apos;adresse avec laquelle le message à été signé (ex: dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>L&apos;adresse avec laquelle le message à été signé (ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LiteDoge address</source>
-        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse LiteDoge spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified Litedoge address</source>
+        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse Litedoge spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LiteDoge address (e.g. dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</source>
-        <translation>Entrer une adresse LiteDoge (par ex: dgZaH1DdikpMTYc2x1Xb6eFBkKGibjmPb9)</translation>
+        <source>Enter a Litedoge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Litedoge (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LiteDoge signature</source>
-        <translation>Entrer une signature LiteDoge</translation>
+        <source>Enter Litedoge signature</source>
+        <translation>Entrer une signature Litedoge</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>LiteDoge version</source>
-        <translation>Version LiteDoge</translation>
+        <source>Litedoge version</source>
+        <translation>Version Litedoge</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2742,7 +2742,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Litedoge Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2758,8 +2758,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 17014 or testnet: 27014)</source>
-        <translation>Écouter les connexions sur le &lt;port&gt; (par défault: 17014 ou testnet: 27014)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Écouter les connexions sur le &lt;port&gt; (par défault: 15714 ou testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,8 +2808,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 17015 or testnet: 27015)</source>
-        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (default: 17015 or testnet: 27015)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (default: 15715 or testnet: 25715)</translation>
     </message>
     <message>
         <location line="-17"/>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LiteDoge will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. LiteDoge ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litedoge will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Litedoge ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. LiteDoge is shutting down.</source>
+        <source>Initialization sanity check failed. Litedoge is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LiteDoge</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application LiteDoge</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Litedoge</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Litedoge</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LiteDoge to complete</source>
-        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application LiteDoge</translation>
+        <source>Wallet needed to be rewritten: restart Litedoge to complete</source>
+        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Litedoge</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. LiteDoge is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application LiteDoge est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. Litedoge is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application Litedoge est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;LiteDoge Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. LiteDoge is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Litedoge is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

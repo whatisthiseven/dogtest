@@ -95,6 +95,9 @@ public:
         base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x88)(0xAD)(0xE4);
 
         convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
+      
+        nLastPOWBlock = 2400;
+
     }
 
     virtual const CBlock& GenesisBlock() const { return genesis; }
@@ -147,40 +150,14 @@ public:
         base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x35)(0x83)(0x94);
 
         convertSeed6(vFixedSeeds, pnSeed6_test, ARRAYLEN(pnSeed6_test));
+        
+        nLastPOWBlock = 0x7fffffff;
 
     }
     virtual Network NetworkID() const { return CChainParams::TESTNET; }
 };
 static CTestNetParams testNetParams;
 
-
-//
-// Regression test
-//
-class CRegTestParams : public CTestNetParams {
-public:
-    CRegTestParams() {
-        pchMessageStart[0] = 0xf2;
-        pchMessageStart[1] = 0xa9;
-        pchMessageStart[2] = 0xb7;
-        pchMessageStart[3] = 0xca;
-        bnProofOfWorkLimit = CBigNum(~uint256(0) >> 1);
-        genesis.nTime = 1426450258;
-        genesis.nBits  = bnProofOfWorkLimit.GetCompact();
-        genesis.nNonce = 1;
-        hashGenesisBlock = genesis.GetHash();
-        nDefaultPort = 18445;
-        strDataDir = "regtest";
-
-        assert(hashGenesisBlock == uint256("0x57c1442bbbb865ce8d3ac300e77cc8d584e8267e4670204235f07fdcb9554531"));
-
-        vSeeds.clear();  // Regtest mode doesn't have any DNS seeds.
-    }
-
-    virtual bool RequireRPCPassword() const { return false; }
-    virtual Network NetworkID() const { return CChainParams::REGTEST; }
-};
-static CRegTestParams regTestParams;
 
 static CChainParams *pCurrentParams = &mainParams;
 
@@ -196,9 +173,6 @@ void SelectParams(CChainParams::Network network) {
         case CChainParams::TESTNET:
             pCurrentParams = &testNetParams;
             break;
-        case CChainParams::REGTEST:
-            pCurrentParams = &regTestParams;
-            break;
         default:
             assert(false && "Unimplemented network");
             return;
@@ -206,16 +180,10 @@ void SelectParams(CChainParams::Network network) {
 }
 
 bool SelectParamsFromCommandLine() {
-    bool fRegTest = GetBoolArg("-regtest", false);
+    
     bool fTestNet = GetBoolArg("-testnet", false);
-
-    if (fTestNet && fRegTest) {
-        return false;
-    }
-
-    if (fRegTest) {
-        SelectParams(CChainParams::REGTEST);
-    } else if (fTestNet) {
+    
+    if (fTestNet) {
         SelectParams(CChainParams::TESTNET);
     } else {
         SelectParams(CChainParams::MAIN);

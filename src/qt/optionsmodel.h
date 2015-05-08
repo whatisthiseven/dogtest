@@ -26,7 +26,6 @@ public:
         ProxyUse,          // bool
         ProxyIP,           // QString
         ProxyPort,         // int
-        ProxySocksVersion, // int
         Fee,               // qint64
         ReserveBalance,    // qint64
         DisplayUnit,       // BitcoinUnits::Unit
@@ -34,6 +33,8 @@ public:
         CoinControlFeatures, // bool
         MinimizeCoinAge,   // bool
         UseBlackTheme,     // bool
+        DarksendRounds,    // int
+        anonymizeLitedogeAmount, //int
         OptionIDRowCount,
     };
 
@@ -64,6 +65,8 @@ signals:
     void transactionFeeChanged(qint64);
     void reserveBalanceChanged(qint64);
     void coinControlFeaturesChanged(bool);
+    void darksendRoundsChanged(int);
+    void anonymizeLitedogeAmountChanged(int);
 };
 
 #endif // OPTIONSMODEL_H

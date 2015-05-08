@@ -20,21 +20,17 @@ bool static ApplyProxySettings()
 {
     QSettings settings;
     CService addrProxy(settings.value("addrProxy", "127.0.0.1:9050").toString().toStdString());
-    int nSocksVersion(settings.value("nSocksVersion", 5).toInt());
     if (!settings.value("fUseProxy", false).toBool()) {
         addrProxy = CService();
-        nSocksVersion = 0;
         return false;
     }
-    if (nSocksVersion && !addrProxy.IsValid())
+    if (!addrProxy.IsValid())
         return false;
     if (!IsLimited(NET_IPV4))
-        SetProxy(NET_IPV4, addrProxy, nSocksVersion);
-    if (nSocksVersion > 4) {
-        if (!IsLimited(NET_IPV6))
-            SetProxy(NET_IPV6, addrProxy, nSocksVersion);
-        SetNameProxy(addrProxy, nSocksVersion);
-    }
+        SetProxy(NET_IPV4, addrProxy);
+    if (!IsLimited(NET_IPV6))
+        SetProxy(NET_IPV6, addrProxy);
+    SetNameProxy(addrProxy);
     return true;
 }
 
@@ -50,7 +46,16 @@ void OptionsModel::Init()
     nTransactionFee = settings.value("nTransactionFee").toLongLong();
     nReserveBalance = settings.value("nReserveBalance").toLongLong();
     language = settings.value("language", "").toString();
-    fUseBlackTheme = settings.value("fUseBlackTheme", true).toBool();
+    fUseBlackTheme = settings.value("fUseBlackTheme", false).toBool();
+
+    if (!settings.contains("nDarksendRounds"))
+        settings.setValue("nDarksendRounds", 2);
+
+    if (!settings.contains("nAnonymizeLitedogeAmount"))
+        settings.setValue("nAnonymizeLitedogeAmount", 1000);
+
+    nDarksendRounds = settings.value("nDarksendRounds").toLongLong();
+    nAnonymizeLitedogeAmount = settings.value("nAnonymizeLitedogeAmount").toLongLong();
 
     // These are shared with core Bitcoin; we want
     // command-line options to override the GUI settings:
@@ -58,12 +63,15 @@ void OptionsModel::Init()
         SoftSetBoolArg("-upnp", settings.value("fUseUPnP").toBool());
     if (settings.contains("addrProxy") && settings.value("fUseProxy").toBool())
         SoftSetArg("-proxy", settings.value("addrProxy").toString().toStdString());
-    if (settings.contains("nSocksVersion") && settings.value("fUseProxy").toBool())
-        SoftSetArg("-socks", settings.value("nSocksVersion").toString().toStdString());
     if (settings.contains("fMinimizeCoinAge"))
         SoftSetBoolArg("-minimizecoinage", settings.value("fMinimizeCoinAge").toBool());
     if (!language.isEmpty())
         SoftSetArg("-lang", language.toStdString());
+
+    if (settings.contains("nDarksendRounds"))
+        SoftSetArg("-darksendrounds", settings.value("nDarksendRounds").toString().toStdString());
+    if (settings.contains("nAnonymizeLitedogeAmount"))
+        SoftSetArg("-anonymizelitedogeamount", settings.value("nAnonymizeLitedogeAmount").toString().toStdString());
 }
 
 int OptionsModel::rowCount(const QModelIndex & parent) const
@@ -91,19 +99,17 @@ QVariant OptionsModel::data(const QModelIndex & index, int role) const
         case ProxyIP: {
             proxyType proxy;
             if (GetProxy(NET_IPV4, proxy))
-                return QVariant(QString::fromStdString(proxy.first.ToStringIP()));
+                return QVariant(QString::fromStdString(proxy.ToStringIP()));
             else
                 return QVariant(QString::fromStdString("127.0.0.1"));
         }
         case ProxyPort: {
             proxyType proxy;
             if (GetProxy(NET_IPV4, proxy))
-                return QVariant(proxy.first.GetPort());
+                return QVariant(proxy.GetPort());
             else
                 return QVariant(9050);
         }
-        case ProxySocksVersion:
-            return settings.value("nSocksVersion", 5);
         case Fee:
             return QVariant((qint64) nTransactionFee);
         case ReserveBalance:
@@ -154,32 +160,22 @@ bool OptionsModel::setData(const QModelIndex & index, const QVariant & value, in
             break;
         case ProxyIP: {
             proxyType proxy;
-            proxy.first = CService("127.0.0.1", 9050);
+            proxy = CService("127.0.0.1", 9050);
             GetProxy(NET_IPV4, proxy);
 
             CNetAddr addr(value.toString().toStdString());
-            proxy.first.SetIP(addr);
-            settings.setValue("addrProxy", proxy.first.ToStringIPPort().c_str());
+            proxy.SetIP(addr);
+            settings.setValue("addrProxy", proxy.ToStringIPPort().c_str());
             successful = ApplyProxySettings();
         }
         break;
         case ProxyPort: {
             proxyType proxy;
-            proxy.first = CService("127.0.0.1", 9050);
+            proxy = CService("127.0.0.1", 9050);
             GetProxy(NET_IPV4, proxy);
 
-            proxy.first.SetPort(value.toInt());
-            settings.setValue("addrProxy", proxy.first.ToStringIPPort().c_str());
-            successful = ApplyProxySettings();
-        }
-        break;
-        case ProxySocksVersion: {
-            proxyType proxy;
-            proxy.second = 5;
-            GetProxy(NET_IPV4, proxy);
-
-            proxy.second = value.toInt();
-            settings.setValue("nSocksVersion", proxy.second);
+            proxy.SetPort(value.toInt());
+            settings.setValue("addrProxy", proxy.ToStringIPPort().c_str());
             successful = ApplyProxySettings();
         }
         break;
@@ -214,6 +210,16 @@ bool OptionsModel::setData(const QModelIndex & index, const QVariant & value, in
         case UseBlackTheme:
             fUseBlackTheme = value.toBool();
             settings.setValue("fUseBlackTheme", fUseBlackTheme);
+            break;
+        case DarksendRounds:
+            nDarksendRounds = value.toInt();
+            settings.setValue("nDarksendRounds", nDarksendRounds);
+            emit darksendRoundsChanged(nDarksendRounds);
+            break;
+        case anonymizeLitedogeAmount:
+            nAnonymizeLitedogeAmount = value.toInt();
+            settings.setValue("nAnonymizeLitedogeAmount", nAnonymizeLitedogeAmount);
+            emit anonymizeLitedogeAmountChanged(nAnonymizeLitedogeAmount);
             break;
         default:
             break;
